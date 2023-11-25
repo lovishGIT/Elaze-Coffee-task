@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.heroImage {
+    background-image: url(../../images/Hero_Section.png);
+    background-size: cover;
+    background-position: 30% 10%;
+}
+.TitleText {
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.78), 7px 6px 20px rgba(0, 0, 0, 0.77), 30px 22px 37px rgba(0, 0, 0, 0.67), 67px 51px 50px rgba(0, 0, 0, 0.39), 118px 90px 59px rgba(0, 0, 0, 0.12), 185px 140px 65px rgba(0, 0, 0, 0.01);
+    font-family: 'Dancing Script';
+    font-weight: bolder;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #FFF8E8;
+    color: #745F58;
+}   
+.hero-btns {
+    border: 2px solid #FFF8E8;
+    background-color: #534743;
+    border-radius: 2rem;
+    font-size: 125%;
+    padding: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    color: #FFF8E8;
+    box-shadow: 1px 1px 1px black;
+    margin-right: 5%;
+    margin-bottom: 40%;
+}
+.hero-btns:hover {
+    background-color: #745F58;
+}
+.Cup1-Text {
+    font-family: 'Dancing Script';
+    font-size: 2vw;
+    color: #FFF8E8;
+}
+.FirstCoffee {
+    border-left: 2px solid #91614e;
+    border-top: 2px solid #91614e;
+    border-top-left-radius: 3rem;
+    border-top-right-radius: 3rem;
+    align-self: end;
+    background-color: #3F2F2A;
+
+}
+.cup1-btn {
+    border: 2px solid #FFF8E8;
+    border-radius: 2rem;
+    margin-top: 10%;
+    margin-left: 30%;
+    padding: 1%;
+    padding-left: 5%;
+    padding-right: 4%;
+}

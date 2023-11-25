@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.BlogHead {
+    color: #F8E4BE;
+    text-shadow: 0px 0px 0px rgba(32, 19, 22, 0.62), 0px 3px 6px rgba(32, 19, 22, 0.60), 0px 11px 11px rgba(32, 19, 22, 0.52), 0px 25px 15px rgba(32, 19, 22, 0.31), 0px 44px 18px rgba(32, 19, 22, 0.09), 0px 69px 19px rgba(32, 19, 22, 0.01);
+    font-family: 'Dancing Script';
+    font-size: 4vw;
+    text-align: center;
+}
+.BlogArea {
+    
+    background-color: #53362A;
+    background-image: url(../../images/background-OurBlog.png);
+    background-position: cover;
+    padding: 7%;
+    font-family: serif;
+    color: #FFF;
+    display: flex;
+    gap: 5%;
+    margin-bottom: 10%;
+}
+
+.Blog {
+    background-color: #997c6b;
+    padding: 2%;
+    border-radius: 2rem;
+    width: 40%;
+    height: 60vh;
+    overflow: hidden;
+}
+.slider-btn {
+    align-self: end;
+    position: relative;
+    top: 10vh;
+}
+.slider-btn:hover {
+    fill: #FFF;
+}
