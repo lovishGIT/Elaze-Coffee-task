@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Elaze-Coffee-task/static/css/main.3476e872.css",
+    "main.js": "/Elaze-Coffee-task/static/js/main.37435538.js",
+    "static/media/footerFrame.png": "/Elaze-Coffee-task/static/media/footerFrame.dda041a3505d8c201b40.png",
+    "static/media/background-OurBlog.png": "/Elaze-Coffee-task/static/media/background-OurBlog.6be4df95371fbca2cbe0.png",
+    "static/media/Hero_Section.png": "/Elaze-Coffee-task/static/media/Hero_Section.da7addbe97163c30299a.png",
+    "static/media/OurStory-FaceImage.png": "/Elaze-Coffee-task/static/media/OurStory-FaceImage.add7ba2a877f4d1a57e2.png",
+    "static/media/CoffeeBags.png": "/Elaze-Coffee-task/static/media/CoffeeBags.ee3309776c84731e503c.png",
+    "static/media/Popularmenu.png": "/Elaze-Coffee-task/static/media/Popularmenu.425e02c0e5e14025af99.png",
+    "static/media/logo.png": "/Elaze-Coffee-task/static/media/logo.c6842c00fc323d89547f.png",
+    "static/media/Reservation-cup.png": "/Elaze-Coffee-task/static/media/Reservation-cup.d76bcb0ad13fffce2cac.png",
+    "static/media/brownBag.png": "/Elaze-Coffee-task/static/media/brownBag.9b834d844b937fa1433d.png",
+    "static/media/greenBag.png": "/Elaze-Coffee-task/static/media/greenBag.6506a05d1722464ab7c9.png",
+    "static/media/blueBag.png": "/Elaze-Coffee-task/static/media/blueBag.a3a1f9e3b8b5e03c9652.png",
+    "static/media/cup1.png": "/Elaze-Coffee-task/static/media/cup1.a7727ced6d96940ee34d.png",
+    "static/media/FooterImg.png": "/Elaze-Coffee-task/static/media/FooterImg.3bcbc765bf00333636ab.png",
+    "static/media/Blog2Follow.png": "/Elaze-Coffee-task/static/media/Blog2Follow.6bc5246d6048e35dd8bd.png",
+    "static/media/Machine-Icon1.png": "/Elaze-Coffee-task/static/media/Machine-Icon1.8ec686cbd5a6ea91291e.png",
+    "static/media/Blog1Follow.png": "/Elaze-Coffee-task/static/media/Blog1Follow.22c371f984027bbeaa6a.png",
+    "static/media/Beans-Icon4.png": "/Elaze-Coffee-task/static/media/Beans-Icon4.bbbc8f23aa4ac59d7df2.png",
+    "index.html": "/Elaze-Coffee-task/index.html",
+    "main.3476e872.css.map": "/Elaze-Coffee-task/static/css/main.3476e872.css.map",
+    "main.37435538.js.map": "/Elaze-Coffee-task/static/js/main.37435538.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3476e872.css",
+    "static/js/main.37435538.js"
+  ]
+}
